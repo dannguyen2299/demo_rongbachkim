@@ -1,0 +1,728 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    background-color: #0c1325;
+} */
+
+body {
+    background-color:  #0c1325;
+  }
+table, th, td{
+    border: 1px solid #15263A !important;
+    border-collapse: collapse;
+    color: white;
+  }
+
+  a{
+      text-decoration: none;
+  }
+/* Start_menu */
+#nav{
+    background: #172B43B2;
+
+   margin-top: 97px;
+}
+#nav #nav_1 {
+    background: none !important;
+   padding-right: -100px !important;
+}
+#nav_img{
+    padding-top: -100px !important;
+   
+}
+
+/* End menu */
+/* ------------------------------- */
+/* Start main */
+/* Start body */
+#body1{
+    margin-top: 28px;
+    margin-bottom: 28px;
+    padding-top: 24px;
+    width: 100%;
+    height: auto;
+    left: 375px;
+    top: 188px;
+
+    background: #172B43B2;
+
+    border: 1px solid #005B82;
+    box-sizing: border-box;
+    border-radius: 10px;
+    }
+
+    /* body1 */
+    #p_body1{
+        /* padding-top: 24px; */
+        padding-left: 18px;
+        width: auto;
+        height: 29px;
+        left: 393px;
+        top: 212px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 29px;
+        text-transform: capitalize;
+        
+        background: linear-gradient(90deg, #FFFFFF 0%, #6D9FFF 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+        
+        
+    }
+    #ul_body1{
+        width: 725px;
+        height: 222px;
+        left: 393px;
+        top: 263px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #C1C1C1;
+    }
+    /* body1 */
+    
+    /* body2 */
+    #body2{
+        width: 100%;
+        height: auto;
+        left: 375px;
+        top: 533px;
+        
+        background: #172B43B2;
+
+        border-radius: 10px;
+    }
+    #p1_body2{
+        padding-top: 20px;
+        padding-left: 18px;
+        width: auto;
+        height: auto;
+        left: 393px;
+        top: 553px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 29px;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+    }
+    #p2_body2{
+        padding-top: 8px;
+        padding-left: 18px;
+        width: auto;
+        height: auto;
+        left: 393px;
+        top: 597px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        text-transform: uppercase;
+        color: #C1C1C1;
+
+    }
+    #p3_body2{
+        padding-top: 18px;
+        padding-left: 19px;
+        width: 699px;
+        height: auto;
+        left: 394px;
+        top: 631px;
+
+        font-family: 'Roboto';
+        font-style: italic;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+
+        color: #FFE096;
+
+    }
+    #p4_body2{
+        text-align: center;
+        width:auto;
+        height: 19px;
+        left: 676px;
+        top: 1088px;
+        
+        font-family: 'Roboto';
+        font-style: italic;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        
+        color: #4281FF;
+    }
+
+        /* div3_body2 */
+        #table11_body2{
+            text-align: center;
+            margin-left: 18px;
+            margin-right: 18px;
+            height: 540px;
+            left: 393px;
+            top: 696px;
+
+            background: #0D1E25;
+        }
+        #table22_body2{
+            text-align: center;
+
+            height: 376px;
+            left: 759px;
+            top: 696px;
+            
+            background: #0D1E25;
+        }
+        #table33_body2{
+            text-align: center;
+
+            height: 376px;
+            left: 946px;
+            top: 696px;
+            
+            background: #0D1E25;
+        }
+
+
+    /* body2 */
+    #p_main{
+        margin: 27px 0px 27px 0px;
+        width: 283px;
+        height: 19px;
+        left: 394px;
+        top: 1154px;
+
+        font-family: 'Roboto';
+        font-style: italic;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        color: #FFE096;
+    }
+    /* body3 */
+        #body3{
+            width: 100%;
+            height: auto;
+            left: 375px;
+            top: 1200px;
+            background: #172B43B2;
+            border-radius: 10px;
+        }
+        #p_h2_body3{
+            padding: 20px 0px 15px 18px;
+            width: auto;
+            height: 29px;
+            left: 393px;
+            top: 1220px;
+
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 25px;
+            line-height: 29px;
+            text-transform: uppercase;
+
+            color: #FFFFFF;
+        }
+        #p_body3_1{
+            padding: 15px 0px 15px 19px;
+            width: auto;
+            height: 23px;
+            left: 394px;
+            top: 1264px;
+
+            font-family: 'Roboto';
+            font-style: italic;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 23px;
+
+            color: #6D9FFF;
+        }
+      
+   
+        .table{
+            background: #0D1E25;
+        }
+        #tb3_1, #tb3_2, #tb3_3{
+            margin-right: 15px;
+        }
+        #tb3_1{
+            margin-left: 18px;
+        }
+        #tb3_4{
+            margin-right: 18px;
+        }
+        #tb3_1, #tb3_2, #tb3_3 ,#tb3_4{
+            padding-top: 15px;
+        }
+
+        #p_body3_2{
+            padding: 22px 0px 15px 19px;
+            width: auto;
+            height: 23px;
+            left: 394px;
+            top: 1641px;
+
+            font-family: 'Roboto';
+            font-style: italic;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 23px;
+
+            color: #6D9FFF;
+
+        }
+
+        #p_body3_3{
+            padding: 22px 0px 15px 19px;
+            width: auto;
+            height: 23px;
+            left: 394px;
+            top: 2020px;
+
+            font-family: 'Roboto';
+            font-style: italic;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 23px;
+
+            color: #6D9FFF;
+
+        }
+
+        #loto_leader{
+            margin: 10px 0px 11px 20px;
+            width: 725px;
+            height: 128px;
+            left: 393px;
+            top: 2053px;
+            
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            /* or 171% */
+            
+            
+            color: #C1C1C1;
+        }
+
+        #p_body3_4{
+            padding-top: 11px;
+            padding-left: 19px;
+            width: auto;
+            height: 15px;
+            left: 394px;
+            top: 2192px;
+            
+            font-family: 'Roboto';
+            font-style: italic;
+            font-weight: 300;
+            font-size: 13px;
+            line-height: 15px;
+            
+            color: #FFE096;
+            
+        }
+    /* body3 */
+
+/* End body */
+
+
+
+
+
+
+
+
+
+/* Start sidebar */
+
+/* Cầu Lotto đẹp nhất ngày 31/03/2022 */
+.slidebar1{
+    margin-top: 28px;
+    width: 370px;
+    height: 177px;
+    left: 1175px;
+    top: 188px;
+
+    background: #172B43 70%;
+    border-radius: 10px;
+    }
+.header1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center!important;
+    /* identical to box height */
+    color: #ffffff;
+    padding: 16px 15px;
+    margin-bottom: 0;
+    /* 123 */
+    background: linear-gradient(180deg, #FC7371 0%, #720000 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 0px 0px;
+}
+.body1{
+    padding: 16px 15px; 
+}
+
+/* Cầu Đặc biệt đẹp nhất ngày 01/04/2022 */
+.slidebar2{
+    width: 370px;
+    height: 248px;
+    left: 1175px;
+    top: 393px;
+
+    background: #172B43 70%;
+    border-radius: 10px;
+    }
+.header2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center!important;
+    /* identical to box height */
+    color: #ffffff;
+    padding: 16px 15px;
+    margin-bottom: 0;
+    /* 123 */
+    background: linear-gradient(180deg, #FC7371 0%, #720000 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 0px 0px;
+}
+.body2{
+    padding: 16px 15px; 
+}
+.footer2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center!important;
+
+    color: #C1C1C1;
+}
+
+/* Tìm cầu ngày mai */
+.slidebar3{
+    width: 370px;
+    height: 187px;
+    left: 1175px;
+    top: 669px;
+
+    background: #172B43 70%;
+    border-radius: 10px;
+    }
+.header3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center!important;
+    /* identical to box height */
+    color: #ffffff;
+    padding: 16px 15px;
+    margin-bottom: 0;
+    /* 123 */
+    background: linear-gradient(180deg, #4267B2 0%, #023497 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 0px 0px;
+}
+.body3{
+    padding: 15px 15px; 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFE096;
+}
+.input3{
+    padding: 10px 10px; 
+    margin-left: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+.form-control{
+    background-color:#142639;
+    border: 1px solid #345CAC;
+    width: 80%;
+}
+.button {
+    width: 85px;
+    height: 39px;
+    left: 1000px;
+    top: 600px;
+
+    background: linear-gradient(180deg, #FC7371 0%, #720000 100%);
+    border: none;
+    color: white;
+    text-align: center;
+    /* margin: 4px 2px; */
+    /* padding: 10px 10px; */
+    cursor: pointer;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+/* Bảng lô top ngày 01/04/2022 */
+.slidebar4{
+    width: 370px;
+    height: 206px;
+    left: 1175px;
+    top: 890px;
+
+    background: #172B43 70%;
+    border-radius: 10px;
+    }
+.header4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center!important;
+    /* identical to box height */
+    color: #ffffff;
+    padding: 16px 15px;
+    margin-bottom: 0;
+    /* 123 */
+    background: linear-gradient(180deg, #FC7371 0%, #720000 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 0px 0px;
+}
+.body4{
+    padding: 16px 15px; 
+}
+.footer4{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center!important;
+
+    color: #6D9FFF;
+}
+
+/* * Thành viên bị cấm chat sẽ không được hiển thị trong bảng top */
+.slidebar5{
+    width: 370px;
+    height: 424px;
+    left: 1175px;
+    top: 1208px;
+    padding: 21px 15px 21px 15px;
+    background: #172B43 70%;
+    border-radius: 10px;
+    }
+#bar51{
+    width: 340px;
+    height: 32px;
+    left: 1190px;
+    top: 1229px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #6D9FFF;
+}
+#bar52{
+    width: 207px;
+    height: 16px;
+    left: 1193px;
+    top: 1272px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+
+    color: #C1C1C1;
+}
+
+
+/* Style the tab buttons */
+.tablink {
+    width: 55px;
+    height: 38px;
+    left: 1191px;
+    top: 1303px;
+
+    background: #0D1E25;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 10px;
+    font-size: 17px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: capitalize;
+
+color: #C1C1C1;
+
+  }
+  
+  /* Change background color of buttons on hover */
+  .tablink:hover {
+    background-color: #777;
+  }
+  
+  /* Set default styles for tab content */
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  /* Style each tab content individually */
+  #BT {background-color:#0D1E25;}
+  #week {background-color:#0D1E25;}
+  #month {background-color:#0D1E25;}
+  #quarter {background-color:#0D1E25;}
+  #year {background-color:#0D1E25;}
+  #all {background-color:#0D1E25;}
+
+#tableslidebar{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    text-transform: capitalize;
+
+    color: #6D9FFF;
+}
+
+.body5{
+    padding: 16px 15px; 
+}
+.footer5{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center!important;
+
+    color: #6D9FFF;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+} 
+
+.flex > div {
+    width: 60px;
+    height: 41px;
+    left: 1190px;
+    top: 959px;
+    background: #0D1E25;
+  }
+
+#but{
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 10px;
+    color: #C1C1C1;
+  }
+
+#content{
+    width: 340px;
+    height: 77px;
+    left: 1190px;
+    top: 1113px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #C1C1C1;
+}
+
+
+
+
+
+
+
+
+
+
+/* End sidebar */
+/* End main */
+
+#menu_home{
+    padding-top: 8px;
+    font-family: 'Roboto';
+    font-style: normal;
+    text-transform: uppercase;
+    color: #6D9FFF;
+    padding-right: 70px;
+}
+#menu_kq,#menu_tk,#menu_sc,#menu_ccpt,#menu_dn,#menu_dk{
+    padding-top: 8px;
+    font-family: 'Roboto';
+    font-style: normal;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-right: 70px;
+}
